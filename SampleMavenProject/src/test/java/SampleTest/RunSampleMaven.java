@@ -28,4 +28,9 @@ public class RunSampleMaven {
 	
 	
 	
+	@Test
+	public void hh() {
+		System.out.println("hi im cristan");
+	}
+	
 }

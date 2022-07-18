@@ -12,7 +12,7 @@ public class Cristanvv {
 	@Test
 	public void kuttu() {
 		System.out.println("hellooo ");
-		System.out.println("chenged by cristan");
+		System.out.println("chenged by cristan...");
 	}
 
 }
