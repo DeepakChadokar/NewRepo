@@ -2,11 +2,11 @@ package SampleTest;
 
 import org.testng.annotations.Test;
 
-public class Try
-{
+public class Try {
+	
 	@Test
-	public void trial()
-	{
+	public void trial() {
 		System.out.println("trial");
+		
 	}
 }
