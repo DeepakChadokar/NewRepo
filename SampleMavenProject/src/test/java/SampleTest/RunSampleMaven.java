@@ -15,4 +15,9 @@ public class RunSampleMaven {
 		System.out.println("test executing");
 	}
 	
+	@Test
+	public void hh() {
+		System.out.println("hi im cristan");
+	}
+	
 }
