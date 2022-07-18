@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="SampleTest.RunSampleMaven">
+      <class name="SampleTest.DinoGame">
         <methods>
-          <include name="helloNikhil"/>
+          <include name="dano"/>
         </methods>
-      </class> <!-- SampleTest.RunSampleMaven -->
+      </class> <!-- SampleTest.DinoGame -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

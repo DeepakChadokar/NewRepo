@@ -9,5 +9,4 @@ public class Try {
 		System.out.println("trial");
 		
 	}
-
 }
