@@ -20,6 +20,11 @@ public class RunSampleMaven {
 	{
 		System.out.println("how are you");
 	}
+	@Test
+	public void hh()
+	{
+		System.out.println("hh");
+	}
 	
 	
 	
