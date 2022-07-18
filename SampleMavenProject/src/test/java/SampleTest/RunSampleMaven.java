@@ -29,7 +29,7 @@ public class RunSampleMaven {
 	
 	
 	@Test
-	public void hh() {
+	public void haha() {
 		System.out.println("hi im cristan");
 	}
 	
